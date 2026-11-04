@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Oracle Cloud Infrastructure</title>
+  <path d="M39 29h50a35 35 0 0 1 0 70H39a35 35 0 0 1 0-70Z" fill="none" stroke="#F04438" stroke-width="10"/>
+  <path d="M45 48h38a16 16 0 0 1 0 32H45a16 16 0 0 1 0-32Z" fill="#F04438"/>
+  <text x="64" y="117" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#F04438">OCI</text>
+</svg>
