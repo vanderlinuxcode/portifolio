@@ -1,0 +1,14 @@
+sequenceDiagram
+    autonumber
+    actor R as Recrutador
+    participant N as Navbar
+    participant B as Navegador
+    participant P as Servidor
+    participant F as PDF
+    R->>N: Clique "Baixar CV"
+    N->>B: onClick download
+    B->>P: GET /vanderlicv.pdf
+    P->>F: Localiza arquivo
+    F-->>P: 200 OK
+    P-->>B: Stream PDF
+    B-->>R: Download

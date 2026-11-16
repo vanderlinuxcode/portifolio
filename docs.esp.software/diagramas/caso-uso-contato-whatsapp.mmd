@@ -1,0 +1,10 @@
+sequenceDiagram
+    autonumber
+    actor V as Visitante
+    participant N as Seção Contato
+    participant B as Navegador
+    participant W as WhatsApp
+    V->>N: Clique no telefone
+    N->>B: window.open wa.me
+    B->>W: Abre wa.me
+    W-->>V: Chat aberto

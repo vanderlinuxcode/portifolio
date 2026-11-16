@@ -1,0 +1,32 @@
+flowchart LR
+    R([Recrutador])
+    G([Gestor Técnico])
+    V([Visitante])
+    O([Orientador])
+    subgraph SISTEMA["Portfólio Web"]
+        UC1([UC01 - Navegar])
+        UC2([UC02 - Ver perfil])
+        UC3([UC03 - Projeto SaaS])
+        UC4([UC04 - Trajetória])
+        UC5([UC05 - Competências])
+        UC6([UC06 - Formação])
+        UC7([UC07 - Baixar CV])
+        UC8([UC08 - WhatsApp])
+        UC9([UC09 - E-mail])
+        UC10([UC10 - GitHub])
+        UC11([UC11 - Sites SaaS])
+        UC12([UC12 - Menu mobile])
+    end
+    R --> UC1
+    R --> UC2
+    R --> UC4
+    R --> UC7
+    R --> UC9
+    G --> UC3
+    G --> UC5
+    G --> UC10
+    G --> UC11
+    V --> UC1
+    V --> UC8
+    V --> UC12
+    O --> UC6
