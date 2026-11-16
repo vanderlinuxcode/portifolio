@@ -100,23 +100,34 @@ Para rodar este projeto localmente, você precisa ter o **Node.js** (v18+) e o *
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/vanderlinuxcode/portifolio.git
-cd portifolio
-Instale as dependências:
+git clone https://github.com/vanderlinuxcode/portifoliov.git
+cd portifoliov
+```
 
-bash
+2. Instale as dependências:
+
+```bash
 npm install
-Inicie o servidor de desenvolvimento:
+```
 
-bash
+3. Inicie o servidor de desenvolvimento:
+
+```bash
 npm run dev
-Para gerar a versão de produção:
+```
 
-bash
+4. Para gerar a versão de produção:
+
+```bash
 npm run build
-Estrutura do Repositório
-text
-portifolio/
+```
+
+---
+
+## Estrutura do Repositório
+
+```text
+portifoliov/
 ├── docs.esp.software/         # Documentação Técnica (SRS e Diagramas)
 │   ├── diagramas/             # Diagramas UML (.png e fontes .mmd)
 │   └── ESRS-Portifolio-VanderliReis.pdf
@@ -126,15 +137,21 @@ portifolio/
 ├── package.json               # Dependências do Node
 ├── tailwind.config.js         # Configuração do Tailwind
 └── vite.config.js             # Configuração do Vite
-Contato
-Autor: Vanderli Marques dos Reis
+```
 
-E-mail: vanderlitecnologia@gmail.com
+---
 
-WhatsApp: (61) 98651-6466
+## Contato
 
-GitHub: github.com/vanderlinuxcode
+- **Autor:** Vanderli Marques dos Reis
+- **E-mail:** [vanderlitecnologia@gmail.com](mailto:vanderlitecnologia@gmail.com)
+- **WhatsApp:** [(61) 98651-6466](https://wa.me/5561986516466)
+- **GitHub:** [github.com/vanderlinuxcode](https://github.com/vanderlinuxcode)
+- **Projeto SaaS em Produção:** [www.centronictec.com.br](https://www.centronictec.com.br)
 
-Projeto SaaS em Produção: www.centronictec.com.br
+---
+<p align="center">
+  <i>© 2025-2026 Vanderli Marques dos Reis. Todos os direitos reservados.</i>
+</p>
 
-<p align="center"> <i>© 2025-2026 Vanderli Marques dos Reis. Todos os direitos reservados.</i> </p>
+
