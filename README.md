@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 ![Stack](https://img.shields.io/badge/stack-React%20%7C%20Vite%20%7C%20Tailwind-cyan)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
+![status](https://img.shields.io/badge/coverage-99%25-orange)
 
 Bem-vindo ao repositório do meu Portfólio Profissional Web. Esta é uma Single Page Application (SPA) desenvolvida em React e compilada via Vite, projetada para apresentar minha trajetória profissional, competências técnicas, projetos em destaque (como a plataforma SaaS RoboCV/CentronicTec) e como entrar em contato comigo.
 
@@ -150,5 +151,5 @@ portifoliov/
 
 ---
 <p align="center">
-  <i>© 2025-2026 Vanderli Marques dos Reis.</i>
+  <i>© 2025-2026 Vanderli Marques dos Reis. Todos os direitos reservados.</i>
 </p>
