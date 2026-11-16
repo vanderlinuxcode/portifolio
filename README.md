@@ -1,10 +1,10 @@
-# Sistema Web TI Centronictec — Portfólio Profissional
+# Portfólio Profissional Web — Vanderli Marques dos Reis
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 ![Stack](https://img.shields.io/badge/stack-React%20%7C%20Vite%20%7C%20Tailwind-cyan)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
 
-Bem-vindo ao repositório do **Sistema Web TI Centronictec**, um Portfólio Profissional Web. Esta é uma Single Page Application (SPA) desenvolvida em React e compilada via Vite, projetada para apresentar minha trajetória profissional, competências técnicas, projetos em destaque (como a plataforma SaaS RoboCV) e formas de contato.
+Bem-vindo ao repositório do meu Portfólio Profissional Web. Esta é uma Single Page Application (SPA) desenvolvida em React e compilada via Vite, projetada para apresentar minha trajetória profissional, competências técnicas, projetos em destaque (como a plataforma SaaS RoboCV/CentronicTec) e como entrar em contato comigo.
 
 ## 🎓 Identificação Acadêmica
 
@@ -89,7 +89,6 @@ O projeto foi construído utilizando as seguintes ferramentas e bibliotecas:
 | **Ícones** | Lucide React |
 | **Linguagem** | JavaScript (ES6+), JSX |
 | **Documentação** | Pandoc (Markdown para PDF), XeLaTeX, Mermaid (UML) |
-| **Infraestrutura** | Oracle Cloud Infrastructure (OCI) |
 
 ---
 
@@ -151,7 +150,5 @@ portifoliov/
 
 ---
 <p align="center">
-  <i>© 2025-2026 Vanderli Marques dos Reis. Todos os direitos reservados.</i>
+  <i>© 2025-2026 Vanderli Marques dos Reis.</i>
 </p>
-
-
