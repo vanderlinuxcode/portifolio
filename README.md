@@ -1,5 +1,6 @@
 # Portfólio Profissional Web — Vanderli Marques dos Reis
 
+[![Acesse o Portfólio](https://img.shields.io/badge/🌐_Acesse_o_Portfólio-vanderli.centronictec.com.br-cyan?style=for-the-badge)](https://vanderli.centronictec.com.br)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 ![Stack](https://img.shields.io/badge/stack-React%20%7C%20Vite%20%7C%20Tailwind-cyan)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
@@ -13,7 +14,7 @@ Bem-vindo ao repositório do meu Portfólio Profissional Web. Esta é uma Single
 |---|---|
 | **Instituição de Ensino** | SENAC — CEP Jó Rufino |
 | **Curso** | Técnico em Desenvolvimento de Sistemas |
-| **Disciplina / Projeto** | Sistema Web TI Centronictec |
+| **Disciplina / Projeto** | Projeto Integrador / Portfólio Profissional |
 | **Orientador** | Hudson Neves |
 | **Aluno** | Vanderli Marques dos Reis |
 | **Local & Ambiente** | Taguatinga Norte — Oracle Cloud Infrastructure (OCI) |
