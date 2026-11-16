@@ -1,10 +1,10 @@
 # Portfólio Profissional Web — Vanderli Marques dos Reis
 
-[![Acesse o Portfólio](https://img.shields.io/badge/🌐_Acesse_o_Portfólio-vanderli.centronictec.com.br-cyan?style=for-the-badge)](https://vanderli.centronictec.com.br)
+[![Acesse o Portfólio](https://img.shields.io/badge/🌐_Acesse_o_Portfólio/vanderli.centronictec.com.br-cyan?style=for-the-badge)](https://vanderli.centronictec.com.br)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 ![Stack](https://img.shields.io/badge/stack-React%20%7C%20Vite%20%7C%20Tailwind-cyan)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
-![status](https://img.shields.io/badge/coverage-99%25-orange)
+![status](https://img.shields.io/badge/coverage-100%25-orange)
 
 Bem-vindo ao repositório do meu Portfólio Profissional Web. Esta é uma Single Page Application (SPA) desenvolvida em React e compilada via Vite, projetada para apresentar minha trajetória profissional, competências técnicas, projetos em destaque (como a plataforma SaaS RoboCV/CentronicTec) e como entrar em contato comigo.
 
@@ -40,7 +40,7 @@ O objetivo deste portfólio é centralizar e apresentar de forma moderna e respo
 1. **Hero:** Apresentação inicial com links rápidos para contato e download do CV.
 2. **Grid de Tecnologias:** Logos de empresas e stacks com as quais já trabalhei.
 3. **Perfil Profissional:** Resumo da trajetória e foco atual.
-4. **Projeto em Destaque (SaaS):** Detalhes sobre a plataforma de atendimento virtual omnichannel (RoboCV).
+4. **Projeto em Destaque (SaaS):** Detalhes sobre a Plataforma Multi-Tenant de Atendimento Conversacional
 5. **Experiência Profissional:** Linha do tempo com 10 experiências desde 2001.
 6. **Competências Técnicas:** Categorizadas em Cloud, Dev, Banco de Dados e DevOps.
 7. **Formação e Qualificações:** Graduação, certificações (Six Sigma, Kanban, Cisco) e CNH.
