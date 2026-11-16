@@ -1,10 +1,23 @@
-# Portfólio Profissional Web — Vanderli Marques dos Reis
+# Sistema Web TI Centronictec — Portfólio Profissional
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 ![Stack](https://img.shields.io/badge/stack-React%20%7C%20Vite%20%7C%20Tailwind-cyan)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
 
-Bem-vindo ao repositório do meu Portfólio Profissional Web. Esta é uma Single Page Application (SPA) desenvolvida em React e compilada via Vite, projetada para apresentar minha trajetória profissional, competências técnicas, projetos em destaque (como a plataforma SaaS RoboCV/CentronicTec) e formas de contato.
+Bem-vindo ao repositório do **Sistema Web TI Centronictec**, um Portfólio Profissional Web. Esta é uma Single Page Application (SPA) desenvolvida em React e compilada via Vite, projetada para apresentar minha trajetória profissional, competências técnicas, projetos em destaque (como a plataforma SaaS RoboCV) e formas de contato.
+
+## 🎓 Identificação Acadêmica
+
+| Atributo | Informação |
+|---|---|
+| **Instituição de Ensino** | SENAC — CEP Jó Rufino |
+| **Curso** | Técnico em Desenvolvimento de Sistemas |
+| **Disciplina / Projeto** | Sistema Web TI Centronictec |
+| **Orientador** | Hudson Neves |
+| **Aluno** | Vanderli Marques dos Reis |
+| **Local & Ambiente** | Taguatinga Norte — Oracle Cloud Infrastructure (OCI) |
+
+---
 
 ## 📑 Sumário
 
@@ -76,6 +89,7 @@ O projeto foi construído utilizando as seguintes ferramentas e bibliotecas:
 | **Ícones** | Lucide React |
 | **Linguagem** | JavaScript (ES6+), JSX |
 | **Documentação** | Pandoc (Markdown para PDF), XeLaTeX, Mermaid (UML) |
+| **Infraestrutura** | Oracle Cloud Infrastructure (OCI) |
 
 ---
 
@@ -86,34 +100,23 @@ Para rodar este projeto localmente, você precisa ter o **Node.js** (v18+) e o *
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/vanderlinuxcode/portifoliov.git
-cd portifoliov
-```
+git clone https://github.com/vanderlinuxcode/portifolio.git
+cd portifolio
+Instale as dependências:
 
-2. Instale as dependências:
-
-```bash
+bash
 npm install
-```
+Inicie o servidor de desenvolvimento:
 
-3. Inicie o servidor de desenvolvimento:
-
-```bash
+bash
 npm run dev
-```
+Para gerar a versão de produção:
 
-4. Para gerar a versão de produção:
-
-```bash
+bash
 npm run build
-```
-
----
-
-## Estrutura do Repositório
-
-```text
-portifoliov/
+Estrutura do Repositório
+text
+portifolio/
 ├── docs.esp.software/         # Documentação Técnica (SRS e Diagramas)
 │   ├── diagramas/             # Diagramas UML (.png e fontes .mmd)
 │   └── ESRS-Portifolio-VanderliReis.pdf
@@ -123,19 +126,15 @@ portifoliov/
 ├── package.json               # Dependências do Node
 ├── tailwind.config.js         # Configuração do Tailwind
 └── vite.config.js             # Configuração do Vite
-```
+Contato
+Autor: Vanderli Marques dos Reis
 
----
+E-mail: vanderlitecnologia@gmail.com
 
-## Contato
+WhatsApp: (61) 98651-6466
 
-- **Autor:** Vanderli Marques dos Reis
-- **E-mail:** [vanderlitecnologia@gmail.com](mailto:vanderlitecnologia@gmail.com)
-- **WhatsApp:** [(61) 98651-6466](https://wa.me/5561986516466)
-- **GitHub:** [github.com/vanderlinuxcode](https://github.com/vanderlinuxcode)
-- **Projeto SaaS em Produção:** [www.centronictec.com.br](https://www.centronictec.com.br)
+GitHub: github.com/vanderlinuxcode
 
----
-<p align="center">
-  <i>© 2025-2026 Vanderli Marques dos Reis. Todos os direitos reservados.</i>
-</p>
+Projeto SaaS em Produção: www.centronictec.com.br
+
+<p align="center"> <i>© 2025-2026 Vanderli Marques dos Reis. Todos os direitos reservados.</i> </p>

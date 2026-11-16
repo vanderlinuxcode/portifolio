@@ -15,6 +15,9 @@ build/
 .env.test.local
 .env.production.local
 
+# Arquivos de backup
+*.bak
+
 # Logs do Node / Gerenciadores de pacote
 npm-debug.log*
 yarn-debug.log*
