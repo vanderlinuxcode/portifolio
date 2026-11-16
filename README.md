@@ -40,7 +40,7 @@ O objetivo deste portfólio é centralizar e apresentar de forma moderna e respo
 1. **Hero:** Apresentação inicial com links rápidos para contato e download do CV.
 2. **Grid de Tecnologias:** Logos de empresas e stacks com as quais já trabalhei.
 3. **Perfil Profissional:** Resumo da trajetória e foco atual.
-4. **Projeto em Destaque (SaaS):** Detalhes sobre a Plataforma Multi-Tenant de Atendimento Conversacional
+4. **Projeto em Destaque (SaaS):** Detalhes sobre a Plataforma Multi-Tenant de Atendimento Conversacional.
 5. **Experiência Profissional:** Linha do tempo com 10 experiências desde 2001.
 6. **Competências Técnicas:** Categorizadas em Cloud, Dev, Banco de Dados e DevOps.
 7. **Formação e Qualificações:** Graduação, certificações (Six Sigma, Kanban, Cisco) e CNH.
