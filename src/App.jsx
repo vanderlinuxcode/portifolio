@@ -30,8 +30,14 @@ export default function App() {
     { name: 'Contato', href: '#contact' }
   ];
 
-  // Apontando para a pasta public/imagens/
+  // Logos atualizadas com a inclusão da Red Hat
   const companyLogos = [
+    { name: 'REDHAT', label: 'Red Hat Enterprise', icon: '/imagens/redhat.png' },
+    { name: 'CEVA', label: 'CEVA Logistics', icon: '/imagens/ceva.png' },
+    { name: 'PFSENSE', label: 'pfSense Firewall', icon: '/imagens/pfsense.png' },
+    { name: 'FORTINET', label: 'Fortinet Security', icon: '/imagens/fortinet.png' },
+    { name: 'BROADCOM', label: 'Broadcom Enterprise', icon: '/imagens/broadcom.png' },
+    { name: 'FURUKAWA', label: 'Furukawa Electric', icon: '/imagens/furukawa.png' },
     { name: 'AWS', label: 'AWS / Cloud', icon: '/imagens/aws.svg' },
     { name: 'IBM', label: 'IBM Enterprise', icon: '/imagens/ibm.svg' },
     { name: 'DELL', label: 'DELL Technologies', icon: '/imagens/dell.svg' },
@@ -53,11 +59,17 @@ export default function App() {
 
   const experiences = [
     {
+      title: 'Aux. de Apoio Logístico',
+      period: 'Emprego Atual',
+      company: 'Adecco - CEVA - Galpão da Amazon Santa Maria BR-040',
+      description: 'Responsive Logistics Inbound / Outbound, Integração & Onboarding, Melhoria contínua para os seus clientes.',
+      highlight: true
+    },
+    {
       title: 'Estagiário GTI',
       period: '2025 – Março 2026',
       company: 'Senac Fecomércio Sesc',
-      description: 'Gestão de infraestrutura de TI, suporte contínuo a instrutores e administração de laboratórios de tecnologia.',
-      highlight: true
+      description: 'Gestão de infraestrutura de TI, suporte contínuo a instrutores e administração de laboratórios de tecnologia.'
     },
     {
       title: 'Suporte Terceirizado em TI / Infraestrutura',
@@ -272,7 +284,7 @@ export default function App() {
           </div>
           <div className="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 sm:p-7 backdrop-blur">
             <p className="text-slate-300 leading-relaxed text-sm sm:text-base text-justify">
-              Profissional com sólida trajetória em infraestrutura de TI, suporte e automação, atualmente em transição para arquitetura de soluções em nuvem e desenvolvimento de produtos SaaS. Idealizador de plataforma de atendimento virtual omnichannel com integração WhatsApp e Telegram, utilizando Node.js, MongoDB Atlas, AWS e Cloudflare. Focado em alinhar visão de negócio com execução técnica, arquitetura de sistemas, gestão de custos em nuvem e metodologias ágeis Scrum.
+              Profissional com sólida trajetória em infraestrutura de TI, suporte e automação, atualmente em transição para arquitetura de soluções em nuvem e desenvolvimento de produtos SaaS. Idealizador da Plataforma Virtual Multi-Tenant de Atendimento Conversacional com integração WhatsApp e Telegram, utilizando Node.js, MongoDB Atlas, OCS e Cloudflare. Focado em alinhar visão de negócio com execução técnica, arquitetura de sistemas, gestão de custos em nuvem e metodologias ágeis Scrum.
             </p>
           </div>
         </div>
@@ -284,13 +296,13 @@ export default function App() {
           <Server className="text-cyan-400 shrink-0" size={26} />
           <h2 className="text-2xl sm:text-3xl font-bold text-white">Projeto em Destaque</h2>
         </div>
-        <p className="text-slate-400 mb-6 text-sm">Solução SaaS omnichannel em produção e validação de mercado</p>
+        <p className="text-slate-400 mb-6 text-sm">Solução SaaS Plataforma Multi-Tenant de Atendimento Conversacional em produção e validação de mercado</p>
 
         <div className="bg-gradient-to-br from-slate-900 via-slate-900 to-slate-950 border border-slate-800 hover:border-cyan-500/50 rounded-2xl p-5 sm:p-7 transition-all">
           <div className="flex flex-col lg:flex-row justify-between lg:items-center gap-4 mb-5">
             <div>
               <span className="text-xs font-mono px-2.5 py-1 rounded bg-cyan-950 text-cyan-400 border border-cyan-800/60 inline-block">
-                PROJETO EM CURSO • SAAS OMNICHANNEL
+                PROJETO EM CURSO • Plataforma Multi-Tenant de Atendimento Conversacional.
               </span>
               <h3 className="text-xl sm:text-2xl font-bold text-white mt-2">Plataforma de Atendimento Virtual com IA & Automação</h3>
             </div>
@@ -548,7 +560,7 @@ export default function App() {
     </div>
   </div>
 </div>
-	  </div>
+      </div>
         </div>
       </section>
 
@@ -588,5 +600,4 @@ export default function App() {
       </footer>
     </div>
   );
-} 
-
+}
